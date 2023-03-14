@@ -2,7 +2,8 @@
 
 ## LANGUAGE
 
-[English](#survey-form)                   [Português Brasil](#formulário)
+- [English](#survey-form)
+- [Português Brasil](#formulário)
 
 ## Survey Form
 
