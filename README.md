@@ -1,4 +1,4 @@
-# HTML form
+# HTML Form
 
 ## LANGUAGE
 
@@ -9,6 +9,7 @@
 
 I decided to create a tribute page to my grandparents who passed away in 2021.<br />
 To honor their memory and to share these memories with my relatives, I decided to create a survey form that will gather specific informations from the members of the family that fill the form. These informations will be sent to a database to be used in the tribute website.
+The website will be made entirely in the Brazilian Portuguese Language.
 
 ## Table of contents
 
@@ -24,7 +25,7 @@ To honor their memory and to share these memories with my relatives, I decided t
 
 ## Overview
 
-There will be four pages total.<br />
+There will be five pages total.<br />
 The first page will have required and optional fields. These fields are information from the person filling out the form. The Second page will page a field for the subject and one for the memory or memories about the tribute. Also there will be a button to add pictures to the form, and a description to each picture. The third page will have a review of all the information added and buttons to edit in case the user decides to change anything in the form.
 Once the form is complete and reviewed, there will be a submit button, when the user clicks the button a page with a small message thanking the person for filling it out and that soon those memories will be added to the tribute website.
 
@@ -52,6 +53,7 @@ Live Website URL: [Page Preview]()
 ## My process
 
 I started writing on paper as much of the idea as I could. After writing on a notebook, a Github `branch` was created for this small project. The README file is the first one being done, as it is going to be both in English and Brazilian Portuguese.
+There is a folder called `Design` where photos of a handmade design on a white board was made. The <b>version 2</b> is the one being used to create the website.
 
 ### Built with
 
@@ -77,6 +79,7 @@ I started writing on paper as much of the idea as I could. After writing on a no
 
 Eu decidi criar uma página de tributo para os meu avós que faleceram em 2021.<br />
 Para honrar a memória deles e compartilhas as mesmas com os meus parentes, eu decidi criar uma pá de formulário que irá recolher informações específicas dos membros da família que preencherem. Essas informações serão enviadas para um banco de dados e salvas para serem utilizadas na página de tributo.
+O website será feito totalmente na língua Portuguesa do Brasil.
 
 ## Table of contents
 
@@ -92,9 +95,9 @@ Para honrar a memória deles e compartilhas as mesmas com os meus parentes, eu d
 
 ## Visão Geral
 
-There will be four pages total.<br />
-The first page will have required and optional fields. These fields are information from the person filling out the form. The Second page will page a field for the subject and one for the memory or memories about the tribute. Also there will be a button to add pictures to the form, and a description to each picture. The third page will have a review of all the information added and buttons to edit in case the user decides to change anything in the form.
-Once the form is complete and reviewed, there will be a submit button, when the user clicks the button a page with a small message thanking the person for filling it out and that soon those memories will be added to the tribute website.
+Haverá cinco páginas no total.<br />
+A primeira página contém campos obrigatórios e opcionais. Esses campos são informações da pessoa que está preenchendo o formulário. Na segunda página haverá um campo para o assunto e um campo para a memória ou memórias sobre o tributo. Haverá também, um botão para adicionar fotos ao formulário, e uma descrição para cada foto. A terceira página será uma uma revisão de todas as informações adicionadas ao formulário e haverá botões de editar para caso o usuário queira mudar alguma informação do formulário.
+Uma vez que o formulário estiver completo e revisado, haverá um botão para enviar, quando o usuário clicar no botão, uma página com uma pequena mensagem agradecendo o usuário por preencher o formulário e que em breve as memórias compartilhadas estarão disponíveis no website para o tributo.
 
 ### O Projeto
 
@@ -120,6 +123,7 @@ URL do Website: [Prévia da Página]()
 ## Meu Processo
 
 Eu comecei escrevendo em um caderno, o máximo possível da ideia. Depois de ter escrito, um `branch` foi criado para este pequeno projeto. O arquivo README é o primeiro que está sendo feito, porque está sendo escrito tanto em Inglês como em Português do Brasil.
+Existe uma pasta chamada `Design` com fotos com desenhos das páginas feito à mão em um quadro branco. a <b>versão 2</b> que está sendo usada para criar o website.
 
 ### Construído com
 
