@@ -54,6 +54,9 @@ Live Website URL: [Page Preview]()
 
 I started writing on paper as much of the idea as I could. After writing on a notebook, a Github `branch` was created for this small project. The README file is the first one being done, as it is going to be both in English and Brazilian Portuguese.
 There is a folder called `Design` where photos of a handmade design on a white board was made. The <b>version 2</b> is the one being used to create the website.
+After a couple of days wondering what would be the best approach to build this project. I decided to start writing the HTML pages with the knowledge I currently have and learn in the process. The index page was created with a picture of the tribute, a brief text about the tribute and a link to click. The link sends the user to the first page of the survey (check image folder for design of the pages). The footer contains the name of the person who is creating the project.
+The first survey page contains the fields: name, email, phone, and relationship with the tribute. And under relationships are the options: brother/sister, son/daughter, nephew, uncle/aunt, cousin. Below the selection options there are three paragraphs with links. The `clear` link, that clears the fields (in this case it only loads the page again), the `next` link (it will take the user to the next survey page once it is created), and the link `return`, that will take the user back to the main page.
+
 
 ### Built with
 
@@ -124,6 +127,9 @@ URL do Website: [Prévia da Página]()
 
 Eu comecei escrevendo em um caderno, o máximo possível da ideia. Depois de ter escrito, um `branch` foi criado para este pequeno projeto. O arquivo README é o primeiro que está sendo feito, porque está sendo escrito tanto em Inglês como em Português do Brasil.
 Existe uma pasta chamada `Design` com fotos com desenhos das páginas feito à mão em um quadro branco. a <b>versão 2</b> que está sendo usada para criar o website.
+Depois de alguns dias pensando sobre a melhor forma de construir este projeto. Eu decidi começar escrevendo as páginas em HTML com o conhecimento que eu possuo atualmente e ir aprendendo conforme o projeto for avançando. A página inicial, ou index, foi criada com uma foto do tributo, um pequeno texto sobre o tributo e um link para clicar. O link envia o usuário para a primeira página do formulário (checar a pasta de imagens onde tem uma foto do design da página). O rodapé, ou footer, contém o nome da pessoa que está criando o projeto.
+A primeira página do formulário contém os campos: nome, email, telefone e o parentesco que o usuário possui com o tributo. Na seleção de parentesco há as seguintes opções: irmão(a), filho(a), sobrinho(a), tio(a), primo(a). Abaixo das seleções de parentesco, tem três links. O link de `limpar`, que irá limpar todos os campos preenchidos (neste caso irá recarregar a página novamente), o link `próxima página` (levará o usuário para a próxima página do formulário), e o link de `Voltar ao Início` que levará o usuário de volta a pagina inicial, ou index.
+
 
 ### Construído com
 
